@@ -1,0 +1,19 @@
+.wrapper {
+    width:900px;
+    clear:both;
+}
+.first {
+    /*background-color:red;*/
+    width:450px;
+    float:left;
+}
+.second {
+    /*background-color:blue;*/
+    width:300px;
+    float:left;
+}
+.third {
+    /*background-color:#bada55;*/
+    width:100px;
+    float:left;
+}
